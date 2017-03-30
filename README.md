@@ -2,6 +2,8 @@
 
 O CallAnalyzer foi criado para solucionar uma dificuldade que estava ocorrendo em uma pequena empresa onde havia a necessidade de se controlar e criar um histórico das ligações recebidas pelos clientes dessa empresa. Como essa empresa recebia muitas ligações, e muitas delas não eram atendidas devido a alta demanda, com o sistema conseguiu-se ganhar um aumento de 20% nas vendas devido ao retorno dado aos clientes após eles ligarem e não serem atendidos.
 
+![alt tag](http://lobaenterprise.com.br/wp-content/uploads/2017/03/callcenteranalyzer.png)
+
 O CallAnalyzer utiliza o [Gentellela Admin](https://github.com/puikinsh/gentelella) para a sua interface gráfica, e utiliza o banco de dados do [Asterisk](https://wiki.asterisk.org/wiki/display/AST/Queue+Logs) para efetuar as pesquisas e as requisições em tempo real.
 
 O Sistema ainda não está completo. A ideia inicial é poder transformar esse software básico de controle e pesquisa de informações em um verdadeiro sistema de controle de Call Center.
